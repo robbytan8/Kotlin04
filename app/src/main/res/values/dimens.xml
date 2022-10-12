@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <dimen name="activity_padding">16dp</dimen>
+  <dimen name="corner_radius">20dp</dimen>
+  <dimen name="text_heading1_size">26sp</dimen>
+</resources>
